@@ -323,7 +323,7 @@ static UniValue getaddednodeinfo(const JSONRPCRequest& request)
             "    \"addresses\" : [                    (list of objects) Only when connected = true\n"
             "       {\n"
 <<<<<<< HEAD
-            "         \"address\" : \"192.168.0.201:8333\",  (string) The virtualcoin server IP and port we're connected to\n"
+            "         \"address\" : \"192.168.0.201:2627\",  (string) The virtualcoin server IP and port we're connected to\n"
 =======
             "         \"address\" : \"192.168.0.201:2627\",  (string) The virtualcoin server IP and port we're connected to\n"
 >>>>>>> 648ce4919f051d9c5259cd00a9c66416e363e159
