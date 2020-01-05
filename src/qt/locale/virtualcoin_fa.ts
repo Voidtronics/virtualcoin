@@ -173,7 +173,11 @@
     </message>
     <message>
         <source>Remember that encrypting your wallet cannot fully protect your virtualcoins from being stolen by malware infecting your computer.</source>
+<<<<<<< HEAD:src/qt/locale/virtualcoin_fa.ts
         <translation>والت رمز بندی شد .
+=======
+        <translation>والت رمز بندی شد . 
+>>>>>>> 648ce4919f051d9c5259cd00a9c66416e363e159:src/qt/locale/virtualcoin_fa.ts
 یاد داشته باشید که پنجره رمز شده نمی تواند کلا از سرقت نرم افزارهای مخرب محافظ کند </translation>
     </message>
     <message>
