@@ -47,4 +47,3 @@ std::vector<CTxDestination> GetAllDestinationsForKey(const CPubKey& key);
 CTxDestination AddAndGetDestinationForScript(FillableSigningProvider& keystore, const CScript& script, OutputType);
 
 #endif // BITCOIN_OUTPUTTYPE_H
-
